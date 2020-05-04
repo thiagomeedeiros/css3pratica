@@ -1,0 +1,61 @@
+.textodireita{
+  background: #00004C;
+  width: 325px;
+  height: 450px;
+  background-position: : right;
+  float: right;
+}
+
+.corheader{
+  color:#add8e6;
+
+}
+
+.data{
+  text-align: center;
+  color: white;
+}
+
+
+
+article{
+  float: left;
+  padding bottom: : 60px;
+  width: 1000px;
+  background-color:#d3d3d3;
+  height: 450px;
+
+}
+
+
+.headersites{
+  background:top black;
+  padding: 10px;
+
+}
+
+.space{
+  background: #949494;
+  padding: 3px;
+}
+
+.menu{
+  background: #1a274b;
+  padding: 5px
+
+
+}
+
+.home{
+  color: white; background: #005685
+}
+
+
+
+
+.titulo, h1{
+
+  color:#ACC4DC;
+  text-align: center;
+
+}
